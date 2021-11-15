@@ -1,7 +1,8 @@
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
-
+# Pagina del Simo
+## Habeura que tal
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
